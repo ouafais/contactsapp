@@ -8,3 +8,5 @@ next steps for the app:
 
 - adding the program that can add new contact
   -adding on click of a row in the cntacts list a page with all info of the contact so we can modify or delete contact
+
+  used github-pages to deploy the app
