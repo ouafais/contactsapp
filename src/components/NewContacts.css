@@ -1,0 +1,17 @@
+.newContact {
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+}
+.labelZone {
+  width: 120px;
+}
+.textZone {
+  width: 80%;
+}
+.submitBtn {
+  width: 100%;
+  margin: 20px;
+  align-content: center;
+  text-align: center;
+}

@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "firstName": "Leanne Graham",
+      "lastName": "Bret",
+      "email": "Sincere@april.biz",
+      "PhoneNumber": "+1 430 652-2920"
+    },
+    {
+      "id": 2,
+      "firstName": "Ervin Howell",
+      "lastName": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "PhoneNumber": "+1 430 652-2920"
+    },
+    {
+      "id": 3,
+      "firstName": "Clementine Bauch",
+      "lastName": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "PhoneNumber": "+1 430 652-2920"
+    },
+    {
+      "id": 4,
+      "firstName": "Patricia Lebsack",
+      "lastName": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "PhoneNumber": "+1 430 652-2920"
+    }
+]
